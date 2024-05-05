@@ -11,15 +11,15 @@ Esta es una guia para compilar tu propio APK de Sonic Mania APK. Esta guia esta 
 
 2. Descargar y instalar Android Studio por medio [de este enlace](https://developer.android.com/studio) *No hacer si ya lo tienes
 
-3. Descargar el script llamado **Sonic Mania Android Build Helper** por medio [de este enlace]( https://raw.githubusercontent.com/Kiaru-the-Fox/Sonic-Mania-Android-Build-Guide/main/ManiaAndroidBuildHelper_2.0.bat). Preciona "Ctrl + S" despues de clickear el link, y guardalo como `.bat`. Este script automatizara un monton de partes dificiles referentes a android studio.esto para hacer la compilacion mas facil.
+3. Descargar el script llamado **Sonic Mania Android Build Helper** por medio [de este enlace]( https://raw.githubusercontent.com/SM2010Ficial/Sonic-Mania-Android-Build-Guide-espa-ol-/main/ManiaAndroidBuildHelper_2.0 (español).bat). Preciona "Ctrl + S" despues de clickear el link, y guardalo como `.bat`. Este script automatizara un monton de partes dificiles referentes a android studio.esto para hacer la compilacion mas facil.
 
-4. Coloca `ManiaAndroidBuildHelper_2.0.bat` en el lugar que mas te plazca
+4. Coloca `ManiaAndroidBuildHelper_2.0 (español).bat` en el lugar que mas te plazca
 
-5. Haz click derecho sobre `ManiaAndroidBuildHelper_2.0.bat` y luego dale click a "Ejecutar Como Administrador". Esto es muy importante. ***Si no lo ejecutas como Administrador, el script fallara y no compilara correctamente!!***
+5. Haz click derecho sobre `ManiaAndroidBuildHelper_2.0 (español).bat` y luego dale click a "Ejecutar Como Administrador". Esto es muy importante. ***Si no lo ejecutas como Administrador, el script fallara y no compilara correctamente!!***
 
-6. Sigue las direcciones en el CMD. Si quieres puedes precionar `y` para los Controles Tactiles y el Ultra Widescreen, aun asi no son tecnicamente necesarios.
+6. Sigue las direcciones en el CMD. Si quieres puedes precionar `s` (y enter obiamente) 2 veces para tener los Controles Tactiles y el soporte para pantallas ultra anchas, aun asi no son tecnicamente necesarios.
 
-7. Una vez que el script diga `SETUP COMPLETE`, abre Android Studio. luego dale Click a `File` en la barra superior, luego dale click a `Open`, ahora ve a esta ubicacion `C:\Users\*TUUSUARIO\Sonic-Mania-Android-Sheeple\Sonic-Mania-Decompilation\dependencies\RSDKv5\android` (remplaza '*TUUSUARIO' con el nombre que tenga tu carpeta "Users") y luego dale click en `OK`. Android Studio va a hacer algunas cosas para poder importar el proyecto.
+7. Una vez que el script diga `INSTALACION COMPLETA`, abre Android Studio. luego dale Click a `File` en la barra superior, luego dale click a `Open`, ahora ve a esta ubicacion `C:\Users\*TUUSUARIO\Sonic-Mania-Android-Sheeple\Sonic-Mania-Decompilation\dependencies\RSDKv5\android` (remplaza '*TUUSUARIO' con el nombre que tenga tu carpeta "Users") y luego dale click en `OK`. Android Studio va a hacer algunas cosas para poder importar el proyecto.
 
 8. Asegurate que tengas instalada la ultima vercion de las "SDK tools". Puedes verificar esto yendo a "Tools --> SDK Manager". Ahora ve a la seccion `SDK Tools`. Si la ultima vercion de: `Android SDK Build-Tools 33`, `NDK (Side-by-Side)`, `CMake`, y `Android SDK Platform-Tools` no estan instaladas, haz click en los cuadrados y luego dale a `Apply`. Eso hara que automaticamente se descarguen las ultimas verciones de esas cosas. Cuando termine, preciona el boton que dice `Finish` para asi que el proyecto se sincronize con las cosas recien instaladas.
 

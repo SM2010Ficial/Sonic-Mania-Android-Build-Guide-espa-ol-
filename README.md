@@ -1,4 +1,4 @@
-# Sonic Mania Decompilation: Compilar para android 
+# Sonic Mania Decompilacion: ¿Como Compilar para android?
 
 Esta es una guia para compilar tu propio APK de Sonic Mania APK. Esta guia esta diseñada para windows 10/11. Pronto habra una para linux
 

@@ -1,5 +1,5 @@
 # ADVERTENCIA
-Este tutorial no me pertenece todos los creditos a la (el) usuari@ (no me quiero meter en lios por pronombres) [KiaraGale](https://gitforwindows.org/) por hacer el tutorial original
+Este tutorial no me pertenece todos los creditos a la (el) usuari@ (no me quiero meter en lios por pronombres) [KiaraGale](https://github.com/KiaraGale) por hacer el [Tutorial original](https://github.com/KiaraGale/Sonic-Mania-Android-Build-Guide)
 
 # Decompilacion de Sonic Mania: ¿Como Compilar para android?
 
